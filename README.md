@@ -15,14 +15,14 @@
 
 <br/>
 
-**[🌐 Demo ao vivo](https://seu-projeto.vercel.app)** •
+**[🌐 Demo ao vivo]([https://seu-projeto.vercel.app](https://cftec.vercel.app/))** •
 **[📖 Documentação](#-sobre-o-projeto)** •
-**[🐞 Reportar Bug](https://github.com/telsioisidoro786-crypton/NOME-DO-REPOSITORIO/issues)** •
+**[🐞 Reportar Bug](https://github.com/telsioisidoro786-crypton/CFTEC/issues)** •
 **[💡 Sugerir Melhoria](https://github.com/telsioisidoro786-crypton/NOME-DO-REPOSITORIO/issues)**
 
 <br/>
 
-> *"Uma breve frase de impacto explicando o problema real que o sistema resolve."*
+> *"Nexora Systems."*
 
 </div>
 
@@ -46,7 +46,7 @@
 
 ## 📌 Sobre o Projeto
 
-**NOME DO PROJETO** é uma aplicação web criada para **[descreva o público-alvo]**, resolvendo **[dor principal do negócio]** de forma simples, rápida e segura.
+**NOME DO PROJETO** é uma aplicação web criada para **jovens angolanos**, resolvendo **a falta de ligação entre eles** de forma simples, rápida e segura.
 
 Em vez de processos manuais, planilhas soltas e comunicação desorganizada, o sistema centraliza tudo num único lugar, dando ao utilizador **controlo total**, **dados em tempo real** e uma experiência fluida em qualquer dispositivo.
 
@@ -185,7 +185,7 @@ php -S localhost:8000
 | :--- | :--- | :--- |
 | `FIREBASE_API_KEY` | Chave pública do projeto Firebase | `AIza...` |
 | `FIREBASE_PROJECT_ID` | ID do projeto | `meu-projeto` |
-| `WHATSAPP_NUMBER` | Número para contacto direto | `244900000000` |
+| `WHATSAPP_NUMBER` | Número para contacto direto | `244933609090` |
 
 > ⚠️ **Nunca** envies o ficheiro `.env` para o GitHub. Mantém-no no `.gitignore`.
 
@@ -232,8 +232,8 @@ Distribuído sob a licença **MIT**. Consulta o ficheiro [`LICENSE`](LICENSE) pa
 *Fundador da Nexora Systems • Desenvolvedor Web*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/telsioisidoro786-crypton)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244900000000)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244922609090)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:telsioisidoro786@gmail.com)
 
 <br/>
 
