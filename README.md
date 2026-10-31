@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:2563eb,100:06b6d4&height=260&text=NOME%20DO%20PROJETO&fontColor=ffffff&fontSize=60&stroke=ffffff&strokeWidth=2&animation=twinkling&desc=Sistemas%20web%20que%20resolvem%20problemas%20reais&descSize=20&descAlignY=72" alt="Cabeçalho do projeto" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:2563eb,100:06b6d4&height=260&text=TELSIO%20ISIDORO&fontColor=ffffff&fontSize=60&stroke=ffffff&strokeWidth=2&animation=twinkling&desc=Sistemas%20web%20que%20resolvem%20problemas%20reais&descSize=20&descAlignY=72" alt="Cabeçalho do projeto" width="100%"/>
 
 <a href="https://github.com/telsioisidoro786-crypton">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=R%C3%A1pido.+Seguro.+Responsivo.;Feito+para+neg%C3%B3cios+reais.;Desenvolvido+por+Telsio+Isidoro+%7C+Nexora+Systems" alt="Texto animado" />
